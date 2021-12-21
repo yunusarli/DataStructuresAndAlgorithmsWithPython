@@ -1,0 +1,6 @@
+constant function => f(x) = c
+logaritmic function => f(x) = log(x) = log2^(x)
+linear function => f(x) = x
+the n.log(n) function => f(x) = x*log(x)
+quadratic function => f(x) = x^2
+exponential function => f(x) = b^x
