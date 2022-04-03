@@ -1,0 +1,13 @@
+Definition: 
+    -Recursion is a way for perform looping operations.
+    -Naturally it calls itself to perform spesific action one more time
+    -Generally recursive functions have one conditinal statement and one actual statement. 
+        When condition is performed, function return all stacks. 
+        Otherwise function will continue to call itself
+
+Examples:
+    1-) Factorial Calculator
+    2-) English Ruler
+    3-) Binary Search
+    4-) File Systems
+
